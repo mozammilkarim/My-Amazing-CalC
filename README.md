@@ -10,6 +10,7 @@ This is React Based Calculator build to practice Styled Components Library usage
     npm i and npm start
 
 The screenshots of how to the Project will look is attached below
+![calc](https://user-images.githubusercontent.com/47852028/179384628-737e097f-a064-4f0d-8c7f-4dfaff104e89.gif)
 
 
 
