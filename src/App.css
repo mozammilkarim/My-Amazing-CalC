@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  margin: 1rem auto;
+  width: 80%;
+}
+
+.inputBtns {
+  border: 1px solid;
+  padding: 0.35rem;
+  background-color: #4caf50;
+  text-align: center;
+  cursor: pointer;
+}
+.inputBtns:hover{
+  color:#4caf50;
+  background-color: #fff;
+}
